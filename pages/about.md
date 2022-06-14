@@ -8,20 +8,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/life/09/26/2.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Through the years, Marikina City has become a melting pot of various cultures and diverse historic events. Archies, a group of student archivists, aims to archive them all through ethically collecting records from different credible authors, publishers, artists, institutions, and organizations as creators of records. The collection ranges from cultures to architectural heritage, offering a glimpse of history of the city. The materials comprises documents, photos, and videos to inclusively encompass the must-have subjects in varied formats for the collection.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
