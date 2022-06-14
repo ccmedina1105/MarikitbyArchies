@@ -14,5 +14,5 @@ credits: true
 
 ## About the Collection
 
-Through the years, Marikina City has become a melting pot of various cultures and diverse historic events. Archies, a group of student archivists, aims to archive them all through ethically collecting records from different credible authors, publishers, artists, institutions, and organizations as creators of records. The collection ranges from cultures to architectural heritage, offering a glimpse of history of the city. The materials comprises documents, photos, and videos to inclusively encompass the must-have subjects in varied formats for the collection.
+Through the years, Marikina City has become a melting pot of various cultures and diverse historic events. Archies, a group of student archivists, aims to archive them all through ethically collecting records from different credible authors, publishers, artists, institutions, and organizations as creators of records. The collection ranges from cultures to architectural heritage, offering a glimpse of history of the city. The materials are comprised of documents, photos, and videos to inclusively encompass the must-have subjects in varied formats of the collection.
 
