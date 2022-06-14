@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/life/09/26/2.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection
 
