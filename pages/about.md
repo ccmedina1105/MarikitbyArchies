@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/life/09/26/2.jpg" %}
+{% include feature/jumbotron.html objectid="https://pbs.twimg.com/media/EFb5UwNXkAEZrlt.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection" %}
 
